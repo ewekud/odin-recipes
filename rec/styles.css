@@ -1,0 +1,33 @@
+body{
+    background-color: ivory;
+}
+
+img{
+    height: 400px;
+    width: auto;
+
+}
+
+h1,
+h3{
+    font-family: fantasy;
+    color: navy;
+    text-align: center;
+    
+}
+
+h3{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p,
+ul,
+ol{
+    font-family: fantasy;
+    font-size: 18px;
+
+}
